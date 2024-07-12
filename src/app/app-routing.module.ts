@@ -1,7 +1,10 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AssociatelistComponent } from './component/associatelist/associatelist.component';
 
-const routes: Routes = [];
+const routes: Routes = [
+  {path:'',component:AssociatelistComponent}
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

@@ -1,0 +1,54 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "Muruga",
+      "email": "muruga@gmail.com",
+      "phone": 7010711772,
+      "address": "Plot 10 Villapuram",
+      "associategroup": "level1",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Ganesh",
+      "email": "ganesh@gmail.com",
+      "phone": 7200295620,
+      "address": "Plot 7 Villapuram",
+      "associategroup": "level2",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "ayyappa",
+      "email": "ayappa@gmail.com",
+      "phone": 9844459878,
+      "address": "Plot 2 Villapuram",
+      "associategroup": "level1",
+      "type": "CUSTOMER",
+      "status": false
+    },
+    {
+      "id": 9,
+      "name": "vel",
+      "email": "vel@gmail.com",
+      "phone": 9889889988,
+      "address": "Meenakshinagar",
+      "associategroup": "level3",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "good",
+      "email": "good@email.com",
+      "phone": 123456789,
+      "address": "Dhoni street, Madurai",
+      "associategroup": "level2",
+      "type": "SUPPLIER",
+      "status": true
+    }
+  ]
+}
